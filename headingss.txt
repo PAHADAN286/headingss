@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="darkwhite" text="black">
+    <!--- this is a heading 1 tag----->
+    <h1>favorite color</h1>
+    <!-- this is a paragraph tag---->
+    <p>my favorite color is red</p>
+    <h2> favorite place</h2>
+    <p> my favorite place is shimla</p>
+    <h3>favorite game</h3>
+    <p> my favorite game is  candicrush</p>
+    <h4> favorite food</h4>
+    <p>my favorite food is momos</p>
+    <h5>favorite dress</h5>
+    <p>my favorite dress is shirtdress</p>
+    <h6>favorite hobbies</h6>
+    <p>my favorite hobbies is listening to music and photography</p>
+
+</body>
+</html>
